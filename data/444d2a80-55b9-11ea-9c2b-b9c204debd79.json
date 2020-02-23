@@ -1,0 +1,12 @@
+{
+  "title": "Something interesting",
+  "description": "Boring",
+  "date": "2020-02-22T21:21:03.140Z",
+  "assignee": { "name": "Jimmy K", "email": "jimmy-k@myhammer.de", "role": "Case Manager", "avatar": "image1.jpg" },
+  "id": "444d2a80-55b9-11ea-9c2b-b9c204debd79",
+  "status": "Active",
+  "attachments": [
+    { "name": "SampleTile.jpg", "downloadUrl": "download-url-1" },
+    { "name": "Query.pdf", "downloadUrl": "download-url-2" }
+  ]
+}

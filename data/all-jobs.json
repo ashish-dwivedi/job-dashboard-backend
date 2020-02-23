@@ -1,0 +1,26 @@
+[
+  {
+    "id": "123",
+    "title": "Redo Kitchen Tiles",
+    "description": "Kitchen tiles need to be replaced completely",
+    "date": "2020-02-17",
+    "status": "Active",
+    "assignee": { "name": "Jimmy K", "email": "jimmy-k@myhammer.de", "role": "Case Manager", "avatar": "image1.jpg" }
+  },
+  {
+    "id": "234",
+    "title": "Painting",
+    "description": "Customer wants a repaint after a complete cleaning",
+    "date": "2020-02-17",
+    "status": "Active",
+    "assignee": { "name": "John Doe", "email": "john-doe@myhammer.de", "role": "Case Manager", "avatar": "image2.jpg" }
+  },
+  {
+    "title": "Something interesting",
+    "description": "Boring",
+    "date": "2020-02-22T21:21:03.140Z",
+    "assignee": { "name": "Jimmy K", "email": "jimmy-k@myhammer.de", "role": "Case Manager", "avatar": "image1.jpg" },
+    "id": "444d2a80-55b9-11ea-9c2b-b9c204debd79",
+    "status": "Active"
+  }
+]

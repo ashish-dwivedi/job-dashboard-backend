@@ -1,0 +1,12 @@
+{
+  "title": "This new title",
+  "description": "Description",
+  "date": "2020-02-19",
+  "assignee": { "name": "Ashish", "role": "Job Handler", "email": "ashish@dwivedi.de" },
+  "id": "bbe4f830-55b8-11ea-84d9-95ab4f0f18d8",
+  "status": "Active",
+  "attachments": [
+    { "name": "SampleTile.jpg", "downloadUrl": "download-url-1" },
+    { "name": "Query.pdf", "downloadUrl": "download-url-2" }
+  ]
+}

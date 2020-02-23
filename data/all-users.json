@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Jimmy K",
+    "email": "jimmy-k@myhammer.de",
+    "role": "Case Manager",
+    "avatar": "image1.jpg"
+  },
+  {
+    "name": "John Doe",
+    "email": "john-doe@myhammer.de",
+    "role": "Case Manager",
+    "avatar": "image2.jpg"
+  }
+]

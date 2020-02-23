@@ -1,0 +1,23 @@
+{
+  "id": "234",
+  "title": "Painting",
+  "description": "Customer wants a repaint after a complete cleaning",
+  "date": "2020-02-17",
+  "status": "Active",
+  "assignee": {
+    "name": "John Doe",
+    "email": "john-doe@myhammer.de",
+    "role": "Case Manager",
+    "avatar": "image2.jpg"
+  },
+  "attachments": [
+    {
+      "name": "SitePicture.jpg",
+      "downloadUrl": "download-url-3"
+    },
+    {
+      "name": "Quotation.pdf",
+      "downloadUrl": "download-url-4"
+    }
+  ]
+}
