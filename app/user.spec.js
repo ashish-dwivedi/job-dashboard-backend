@@ -3,7 +3,7 @@ const request = require('supertest');
 const { header } = require('../config/config');
 
 describe('User api', () => {
-  afterAll(function(done) {
+  afterEach(function(done) {
     app.close();
     done();
   });
